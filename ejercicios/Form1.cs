@@ -14,6 +14,7 @@ namespace ejercicios
     {
         public Form1()
         {
+
             InitializeComponent();
         }
     }
