@@ -1,0 +1,10 @@
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Par o Impar\bin\Debug\Par o Impar.exe.config
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Par o Impar\bin\Debug\Par o Impar.exe
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Par o Impar\bin\Debug\Par o Impar.pdb
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Par o Impar\obj\Debug\Par o Impar.csproj.AssemblyReference.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Par o Impar\obj\Debug\Par_o_Impar.Form1.resources
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Par o Impar\obj\Debug\Par_o_Impar.Properties.Resources.resources
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Par o Impar\obj\Debug\Par o Impar.csproj.GenerateResource.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Par o Impar\obj\Debug\Par o Impar.csproj.CoreCompileInputs.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Par o Impar\obj\Debug\Par o Impar.exe
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Par o Impar\obj\Debug\Par o Impar.pdb

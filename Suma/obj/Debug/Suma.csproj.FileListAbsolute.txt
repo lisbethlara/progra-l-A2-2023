@@ -1,0 +1,10 @@
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Suma\obj\Debug\Suma.csproj.AssemblyReference.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Suma\obj\Debug\Suma.Form1.resources
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Suma\obj\Debug\Suma.Properties.Resources.resources
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Suma\obj\Debug\Suma.csproj.GenerateResource.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Suma\obj\Debug\Suma.csproj.CoreCompileInputs.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Suma\bin\Debug\Suma.exe.config
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Suma\bin\Debug\Suma.exe
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Suma\bin\Debug\Suma.pdb
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Suma\obj\Debug\Suma.exe
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Suma\obj\Debug\Suma.pdb

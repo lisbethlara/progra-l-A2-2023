@@ -1,0 +1,10 @@
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Calcular Etapa de Vida\bin\Debug\Calcular Etapa de Vida.exe.config
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Calcular Etapa de Vida\bin\Debug\Calcular Etapa de Vida.exe
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Calcular Etapa de Vida\bin\Debug\Calcular Etapa de Vida.pdb
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Calcular Etapa de Vida\obj\Debug\Calcular Etapa de Vida.csproj.AssemblyReference.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Calcular Etapa de Vida\obj\Debug\Calcular_Etapa_de_Vida.Form1.resources
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Calcular Etapa de Vida\obj\Debug\Calcular_Etapa_de_Vida.Properties.Resources.resources
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Calcular Etapa de Vida\obj\Debug\Calcular Etapa de Vida.csproj.GenerateResource.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Calcular Etapa de Vida\obj\Debug\Calcular Etapa de Vida.csproj.CoreCompileInputs.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Calcular Etapa de Vida\obj\Debug\Calcular Etapa de Vida.exe
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Calcular Etapa de Vida\obj\Debug\Calcular Etapa de Vida.pdb

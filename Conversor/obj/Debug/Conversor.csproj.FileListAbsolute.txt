@@ -1,0 +1,10 @@
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Conversor\bin\Debug\Conversor.exe.config
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Conversor\bin\Debug\Conversor.exe
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Conversor\bin\Debug\Conversor.pdb
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Conversor\obj\Debug\Conversor.csproj.AssemblyReference.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Conversor\obj\Debug\Conversor.Form1.resources
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Conversor\obj\Debug\Conversor.Properties.Resources.resources
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Conversor\obj\Debug\Conversor.csproj.GenerateResource.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Conversor\obj\Debug\Conversor.exe
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Conversor\obj\Debug\Conversor.pdb

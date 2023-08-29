@@ -1,0 +1,10 @@
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Promedio\Promedio\bin\Debug\Promedio.exe.config
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Promedio\Promedio\bin\Debug\Promedio.exe
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Promedio\Promedio\bin\Debug\Promedio.pdb
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Promedio\Promedio\obj\Debug\Promedio.csproj.AssemblyReference.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Promedio\Promedio\obj\Debug\Promedio.Form1.resources
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Promedio\Promedio\obj\Debug\Promedio.Properties.Resources.resources
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Promedio\Promedio\obj\Debug\Promedio.csproj.GenerateResource.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Promedio\Promedio\obj\Debug\Promedio.csproj.CoreCompileInputs.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Promedio\Promedio\obj\Debug\Promedio.exe
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Promedio\Promedio\obj\Debug\Promedio.pdb

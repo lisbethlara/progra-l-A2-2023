@@ -1,0 +1,10 @@
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Suma y multiplicacion\obj\Debug\Suma_y_multiplicacion.Form1.resources
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Suma y multiplicacion\obj\Debug\Suma_y_multiplicacion.Properties.Resources.resources
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Suma y multiplicacion\obj\Debug\Suma y multiplicacion.csproj.GenerateResource.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Suma y multiplicacion\obj\Debug\Suma y multiplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Suma y multiplicacion\bin\Debug\Suma y multiplicacion.exe.config
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Suma y multiplicacion\bin\Debug\Suma y multiplicacion.exe
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Suma y multiplicacion\bin\Debug\Suma y multiplicacion.pdb
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Suma y multiplicacion\obj\Debug\Suma y multiplicacion.exe
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Suma y multiplicacion\obj\Debug\Suma y multiplicacion.pdb
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Suma y multiplicacion\obj\Debug\Suma y multiplicacion.csproj.AssemblyReference.cache

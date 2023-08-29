@@ -1,0 +1,10 @@
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Tabla de Multiplicar\obj\Debug\Tabla de Multiplicar.csproj.AssemblyReference.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Tabla de Multiplicar\obj\Debug\Tabla_de_Multiplicar.Form1.resources
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Tabla de Multiplicar\obj\Debug\Tabla_de_Multiplicar.Properties.Resources.resources
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Tabla de Multiplicar\obj\Debug\Tabla de Multiplicar.csproj.GenerateResource.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Tabla de Multiplicar\obj\Debug\Tabla de Multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Tabla de Multiplicar\bin\Debug\Tabla de Multiplicar.exe.config
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Tabla de Multiplicar\bin\Debug\Tabla de Multiplicar.exe
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Tabla de Multiplicar\bin\Debug\Tabla de Multiplicar.pdb
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Tabla de Multiplicar\obj\Debug\Tabla de Multiplicar.exe
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Tabla de Multiplicar\obj\Debug\Tabla de Multiplicar.pdb

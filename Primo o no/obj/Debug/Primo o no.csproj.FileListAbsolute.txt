@@ -1,0 +1,9 @@
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Primo o no\bin\Debug\Primo o no.exe.config
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Primo o no\bin\Debug\Primo o no.exe
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Primo o no\bin\Debug\Primo o no.pdb
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Primo o no\obj\Debug\Primo_o_no.Form1.resources
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Primo o no\obj\Debug\Primo_o_no.Properties.Resources.resources
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Primo o no\obj\Debug\Primo o no.csproj.GenerateResource.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Primo o no\obj\Debug\Primo o no.csproj.CoreCompileInputs.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Primo o no\obj\Debug\Primo o no.exe
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Primo o no\obj\Debug\Primo o no.pdb

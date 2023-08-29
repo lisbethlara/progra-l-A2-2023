@@ -1,0 +1,5 @@
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Tablas de multiplicar\obj\Debug\Tablas de multiplicar.csproj.AssemblyReference.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Tablas de multiplicar\obj\Debug\Tablas_de_multiplicar.Form1.resources
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Tablas de multiplicar\obj\Debug\Tablas_de_multiplicar.Properties.Resources.resources
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Tablas de multiplicar\obj\Debug\Tablas de multiplicar.csproj.GenerateResource.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Tablas de multiplicar\obj\Debug\Tablas de multiplicar.csproj.CoreCompileInputs.cache
