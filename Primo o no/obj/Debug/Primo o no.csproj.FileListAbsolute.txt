@@ -7,3 +7,4 @@ C:\Users\Lissb\source\repos\progra-l-A2-2023\Primo o no\obj\Debug\Primo o no.csp
 C:\Users\Lissb\source\repos\progra-l-A2-2023\Primo o no\obj\Debug\Primo o no.csproj.CoreCompileInputs.cache
 C:\Users\Lissb\source\repos\progra-l-A2-2023\Primo o no\obj\Debug\Primo o no.exe
 C:\Users\Lissb\source\repos\progra-l-A2-2023\Primo o no\obj\Debug\Primo o no.pdb
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Primo o no\obj\Debug\Primo o no.csproj.AssemblyReference.cache

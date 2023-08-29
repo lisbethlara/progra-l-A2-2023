@@ -1,0 +1,10 @@
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Parcial1\bin\Debug\Parcial1.exe.config
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Parcial1\bin\Debug\Parcial1.exe
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Parcial1\bin\Debug\Parcial1.pdb
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Parcial1\obj\Debug\Parcial1.csproj.AssemblyReference.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Parcial1\obj\Debug\Parcial1.Form1.resources
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Parcial1\obj\Debug\Parcial1.Properties.Resources.resources
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Parcial1\obj\Debug\Parcial1.csproj.GenerateResource.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Parcial1\obj\Debug\Parcial1.csproj.CoreCompileInputs.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Parcial1\obj\Debug\Parcial1.exe
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Parcial1\obj\Debug\Parcial1.pdb

@@ -1,0 +1,10 @@
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Parcial-Conversores\bin\Debug\Parcial-Conversores.exe.config
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Parcial-Conversores\bin\Debug\Parcial-Conversores.exe
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Parcial-Conversores\bin\Debug\Parcial-Conversores.pdb
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Parcial-Conversores\obj\Debug\Parcial-Conversores.csproj.AssemblyReference.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Parcial-Conversores\obj\Debug\Parcial_Conversores.Form1.resources
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Parcial-Conversores\obj\Debug\Parcial_Conversores.Properties.Resources.resources
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Parcial-Conversores\obj\Debug\Parcial-Conversores.csproj.GenerateResource.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Parcial-Conversores\obj\Debug\Parcial-Conversores.csproj.CoreCompileInputs.cache
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Parcial-Conversores\obj\Debug\Parcial-Conversores.exe
+C:\Users\Lissb\source\repos\progra-l-A2-2023\Parcial-Conversores\obj\Debug\Parcial-Conversores.pdb

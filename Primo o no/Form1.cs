@@ -24,7 +24,7 @@ namespace Primo_o_no
 
             int i;
             int c = 0;
-            for (i = 2; i<numero; i++)
+            for (i = 1; i<numero; i++)
             {
                 if (numero % i== 0)
                 {

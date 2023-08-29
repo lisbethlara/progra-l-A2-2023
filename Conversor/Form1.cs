@@ -14,12 +14,13 @@ namespace Conversor
     {
         String[][] TiposConversores = new string[][]
        {
-        new string[] {"Dolar", "Euro", "Quetzales", "Lempiras", "Colón Salvadoreño", "Cordoba", "Pesos Costarricenses", "Yen Japones", "Lira Turca", "Peso Mexicano" }, //monedas 
-       new String[] {"Tonelada", "Kilogramo", "Gramo", "Miligramo", "Microgramo", "Tonelada larga", "Tonelada corta", "Stone", "Libra", "Onza"}, //Masa
-       new string [] {"Metro Cubico", "Galón", "Cuarto", "Taza americana", "Onza Liquida", "Litro", "Mililitro", "Pulgada Cubica", "Pie Cubico"}, //Volumen
-       new string [] {"Kilometro", "Metro", "Centimetro", "Milímetro", "Micrometro", "Nanometro", "Milla", "Yarda", "Pie", "Pulgada"} , //Longitud
-       new string [] {"Bits", "Bytes", "Kilobytes", "Megabytes", "Gigabytes", "Terabytes", "Petabytes", "Exabytes", "Zettabytes", "Yottabytes"}, //Almacenamiento
-       new string [] {"Nanosegundo", "Microsegundo", "Milisegundo", "Segundo", "Minuto", "Hora", "Dia", "Semana", "Mes", "Año" }, //Tiempo 
+       new string[] {"Pie Cuadrado" },
+       new string[] {"Vara Cuadrada" },
+       new string [] {"Yarda Cuadrada"},
+       new string [] {"Metro Cuadrado"},
+       new string [] {"Tareas"}, 
+       new string [] {"Manzana" }, 
+       new string [] {"Hectarea"},
        };
         private object cboAconversor;
         private object txtCantidadConversor;
@@ -63,6 +64,11 @@ namespace Conversor
         private void btnSalir_Click(object sender, EventArgs e)
         {
             Close();
+        }
+
+        private void cboDeConversor_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

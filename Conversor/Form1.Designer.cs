@@ -93,6 +93,7 @@ namespace Conversor
             this.cboDeConversor.Name = "cboDeConversor";
             this.cboDeConversor.Size = new System.Drawing.Size(154, 21);
             this.cboDeConversor.TabIndex = 7;
+            this.cboDeConversor.SelectedIndexChanged += new System.EventHandler(this.cboDeConversor_SelectedIndexChanged);
             // 
             // cboAconversar
             // 
